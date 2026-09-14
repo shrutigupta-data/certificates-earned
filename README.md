@@ -1,2 +1,2 @@
 # certificates-earned
-Certificates earned through self-paced online courses across various platforms — a record of continuous, self-driven learning.
+This repository archives certificates earned through self-paced online learning across various platforms, documenting my ongoing journey in skill development and professional growth.
