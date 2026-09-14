@@ -1,2 +1,2 @@
 # certificates-earned
-This repository archives certificates earned through self-paced online learning across various platforms, documenting my ongoing journey in skill development and professional growth.
+A curated collection of certificates earned through self-paced online learning and assessments across various platforms.
